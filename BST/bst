@@ -1,0 +1,17 @@
+for all node..left is smaler and right is gretaer.
+used for easy searching
+
+recursion jo hai vo directly ans ki taraf bhagti hai.
+bda hai to right small hai to left nhi to usi k equal.
+
+isme complexity logn hoti hai..kyu?
+
+phle search mein yah to left jaega yah fir right-> n/2 rah gye.
+dusre mein n/4.
+isiliye log n
+
+bst v/s bt
+jo vbhi chiz structure par depend krti hai jese size,sum to unme dono o(n) mein rhengye.
+lekinn jo value par depend krti hai unme logn in bst and o(n) in bt. Example max,min,find.
+
+Diameter vala qustion structure se vasta rkhta hai isilye logn.
